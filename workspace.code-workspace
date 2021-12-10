@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "config"
+		},
+		{
+			"path": "log"
+		},
+		{
+			"path": "node_modules"
+		},
+		{
+			"path": "src"
+		}
+	]
+}
